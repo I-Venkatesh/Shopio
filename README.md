@@ -1,5 +1,5 @@
 # Shopio
-### E-Commerce webapp where a person can buy clothes.This webapp is built with Node.js, React.js, Express, MongoDB, Redux.
+### An E-Commerce webapp where users can add, pay and order clothes.This webapp is built with Node.js, React.js, Express, MongoDB, Redux.
 ### Features
 - React in frontend.
 - Node provides the backend environment for this application.
